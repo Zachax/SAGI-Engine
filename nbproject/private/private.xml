@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/media/sakari/soturi/Shard/Sakari/Code/Java/Ohjelmaprojektia/AdventureGame/SAGIEngine_V2/src/sagi/engine/CommandReceiver.java</file>
+            <file>file:/media/sakari/soturi/Shard/Sakari/Code/Java/Ohjelmaprojektia/AdventureGame/SAGIEngine_V2/src/sagi/elements/DialogNode.java</file>
+            <file>file:/media/sakari/soturi/Shard/Sakari/Code/Java/Ohjelmaprojektia/AdventureGame/SAGIEngine_V2/src/sagi/elements/DialogChoice.java</file>
+            <file>file:/media/sakari/soturi/Shard/Sakari/Code/Java/Ohjelmaprojektia/AdventureGame/SAGIEngine_V2/src/sagi/elements/Entity.java</file>
+            <file>file:/media/sakari/soturi/Shard/Sakari/Code/Java/Ohjelmaprojektia/AdventureGame/SAGIEngine_V2/src/sagi/elements/Gate.java</file>
+            <file>file:/media/sakari/soturi/Shard/Sakari/Code/Java/Ohjelmaprojektia/AdventureGame/SAGIEngine_V2/src/sagi/elements/Item.java</file>
+            <file>file:/media/sakari/soturi/Shard/Sakari/Code/Java/Ohjelmaprojektia/AdventureGame/SAGIEngine_V2/src/sagi/elements/Zone.java</file>
+            <file>file:/media/sakari/soturi/Shard/Sakari/Code/Java/Ohjelmaprojektia/AdventureGame/SAGIEngine_V2/src/sagi/engine/Situation.java</file>
+            <file>file:/media/sakari/soturi/Shard/Sakari/Code/Java/Ohjelmaprojektia/AdventureGame/SAGIEngine_V2/src/sagi/engine/MainFrame.java</file>
+            <file>file:/media/sakari/soturi/Shard/Sakari/Code/Java/Ohjelmaprojektia/AdventureGame/SAGIEngine_V2/src/sagi/elements/LocationList.java</file>
+            <file>file:/media/sakari/soturi/Shard/Sakari/Code/Java/Ohjelmaprojektia/AdventureGame/SAGIEngine_V2/src/sagi/elements/Location.java</file>
+            <file>file:/media/sakari/soturi/Shard/Sakari/Code/Java/Ohjelmaprojektia/AdventureGame/SAGIEngine_V2/src/sagi/elements/Agent.java</file>
+            <file>file:/media/sakari/soturi/Shard/Sakari/Code/Java/Ohjelmaprojektia/AdventureGame/SAGIEngine_V2/src/sagi/elements/Includes.java</file>
+            <file>file:/media/sakari/soturi/Shard/Sakari/Code/Java/Ohjelmaprojektia/AdventureGame/SAGIEngine_V2/src/sagi/resource/TestingAreas.java</file>
+            <file>file:/media/sakari/soturi/Shard/Sakari/Code/Java/Ohjelmaprojektia/AdventureGame/SAGIEngine_V2/src/sagi/engine/GraphicsWindow.java</file>
+        </group>
+    </open-files>
+</project-private>

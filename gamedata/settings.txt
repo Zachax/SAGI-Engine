@@ -1,0 +1,6 @@
+screenX: 75
+screenY: 0
+testpanel: false
+dummy: bo53
+nudge: false
+player name: Sakari
